@@ -45,10 +45,10 @@ pip install numpy torch matplotlib opencv-python onnxruntime segment_anything
    ```bash
    python mask_generator.py path/your_image.jpg
    ```
- 4. **References*
-    '''
-    [https://github.com/facebookresearch/segment-anything/blob/main/notebooks/predictor_example.ipynb](https://github.com/facebookresearch/segment-anything/tree/main)
-    https://github.com/facebookresearch/segment-anything/tree/main
-    https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+ 4. **References**
     
-    ''' 
+    '''
+    [https://github.com/facebookresearch/segment-anything/blob/main/notebooks/predictor_example.ipynb](https://github.com/facebookresearch/segment-anything/tree/main), 
+    https://github.com/facebookresearch/segment-anything/tree/main , 
+    https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+        ''' 
